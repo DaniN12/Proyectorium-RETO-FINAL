@@ -1,4 +1,4 @@
 /*
  This package contains classes for all the entities
  */
-package aus.tartangalh.crud.entities;
+package proyectorium.crud.entities;

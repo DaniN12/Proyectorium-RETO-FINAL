@@ -1,4 +1,4 @@
 /*
 This package contains all services classes
  */
-package eus.tartangalh.crud.services;
+package proyectorium.crud.services;
